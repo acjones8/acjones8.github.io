@@ -30,6 +30,7 @@ Once I finally got it working, all that was left to do was to make sure it could
 
 You can view the source code on [github](https://github.com/acjones8/Sudoku-Solver). A sample of the solver's output is below, but it may not display properly if your browser reformats te text width.
 
+```
     solving example 1
     +---------+---------+---------+---------+
     | B 2 5   | 4   9   | 6 E   1 |   3     |
@@ -144,6 +145,4 @@ You can view the source code on [github](https://github.com/acjones8/Sudoku-Solv
     | 2   E 5 | D   A   |     4   | 9   7 8 |
     | F   9 A |   1     |   2     |   6 4   |
     +---------+---------+---------+---------+
-
-
-
+```
