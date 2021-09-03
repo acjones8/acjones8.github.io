@@ -29,20 +29,21 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Embedded Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Embedded"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Enterprise Software Development",
       "keywords": [
+        "Enterprise"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Open Source Software",
       "keywords": [
+        "Open Source"
       ]
     }
   ],
@@ -63,11 +64,11 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Windows",
+        "FreeBSD",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse"
       ]
     }
   ],
