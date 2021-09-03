@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alexander Jones",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://acjones8.github.io/images/Cropped Portfolio Pic.png",
+    "email": "acjones8 at hawaii dot edu",
+    "phone": "",
+    "website": "https://acjones8.github.io",
+    "summary": "I'm studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2022 or 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,14 +17,15 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "acjones8",
+        "url": "http://github.com/acjones8"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
+        "username": "acjones8",
+        "url": "http://linkedin.com/in/alexander-jones-b74a1921a/"
+      }
+      /*
       {
         "network": "twitter",
         "username": "mollymal",
@@ -35,25 +36,33 @@
         "username": "molly",
         "url": "http://instagram.com/changeme"
       }
+      */
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Embedded Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Embedded"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Enterprise Software Development",
       "keywords": [
+        "Enterprise"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Open Source Software",
       "keywords": [
+        "Open Source"
       ]
+    },
+    {
+      "name": "Japanese",
+      "keywords": [
+          "Japanese"
+        ]
     }
   ],
   "skills": [
@@ -65,34 +74,36 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Emacs Lisp",
+        "Shell scripting"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Linux",
+        "FreeBSD",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022 or 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
+  /*
   "work": [
     {
       "company": "UH Manoa Board of Publications",
@@ -106,6 +117,7 @@
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
+    
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -119,6 +131,8 @@
       ]
     }
   ],
+  */
+  /*
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -146,6 +160,8 @@
       ]
     }
   ],
+  */
+  /*
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -160,6 +176,7 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
+  */
   "references": [
     {
       "name": "Available upon request",
