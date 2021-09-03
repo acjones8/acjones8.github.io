@@ -28,7 +28,7 @@ This was one of my first assignments that really required an understanding of ho
 
 Once I finally got it working, all that was left to do was to make sure it could pass all of the test cases. We had 5 or 6 pre-provided sudoku puzzles, and while the first two completed nearly instantly, the 3rd and 4th ones took a few minutes. For the final hardest ones, it took my computer over half an hour to find a single valid solution, which also introduced me to the importance of algorithmic complexity and multithreading (as this sudoku solver is single thread only, it's unable to take advantage of most of the processor's computing power).
 
-You can view the source code on [github](https://github.com/acjones8/Sudoku-Solver). A sample of the solver's output is below, but it may not display properly if your browser reformats te text width.
+You can view the source code on [github](https://github.com/acjones8/Sudoku-Solver). A sample of the solver's output is below, but it may not display properly if your browser reformats text.
 
 ```
     solving example 1
