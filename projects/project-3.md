@@ -1,61 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/exapunks.png
+title: Exapunks
+permalink: projects/exapunks
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-08-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Assembly
+  - Zachtronics
+  - Game
+summary: Exapunks is a game centered around programming, and this project follows my process in attempting to beat the game.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Zachtronics' EXAPUNKS is a programming game centered around the manipulation of small robotic agents called Exapunks. Zachtronics has made several other games in this genre, most notably TIS-100 and Shenzhen I/O, but my favorite of the bunch is Exapunks. Over summer 2021, I attempted a playthrough of the game, and although I haven't managed to fully complete it yet, I'm gotten fairly close.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+One of the most interesting aspects of the game, is that it requires programming in a sort of psuedo-assembly unique to it, along with features such as parallel processing and communication between the different agents, which leads to needing to solve real world problems such as lock conention, optimizing for either speed or size, and implementing complex algorithems into assembly, a language which doesn't provide very much assistance to the programmer. The game comes with a manual that introduces many computing concepts in a very simplified way - for example, on one mission, you need to reprrogram the data broadcast for a satellite, and one of the satellite's protection mechanisms is an encryption key. Although the encryption implemented in the game is incredibly simplistic, the challenge of processing data while also encrypting it in transit is very much a real world problem 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
