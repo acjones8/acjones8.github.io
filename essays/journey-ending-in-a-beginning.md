@@ -19,11 +19,7 @@ and I attended a C++ summer camp for kids run by a nearby university. Although i
 retrospect, C++ may not have been the best choice to start a 12 year old on,
 I loved every minute of it, and decided that someday I wanted to pursue a
 career working with computers – nothing matches the satisfaction of getting
-a computer to do exactly what you want it to do. Up to this far, I've learned a fair amount about Linux and open source software, I've gaiend some knowledge in how computers work at a low level, and I've elarned the basics fo computer science. As the journey of getting through school and my early college career comes to an end, now begins a new journey of learning about professional software development and eventually working in the industry. In an increasingly technological and connected world, Computer Science
-and all the industries that stem from it are becoming critical in almost
-everything we do, from self-driving cars, to life-saving medical equipment,
-to safeguarding personal data, to processing taxes and financial
-information.
+a computer to do exactly what you want it to do. Up to this point, I've learned a fair amount about Linux and open source software, I've gained some knowledge in how computers work at a low level, and I've learned many of the foundational concepts of computer science. As the journey of getting through school and my early college career comes to an end, now begins a new journey of learning about professional software development and eventually to working in the industry.
 
 I decided to attend UH Manoa in order to learn how to develop software
 professionally, to get some exposure to the various opportunities that the
