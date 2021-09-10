@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ninjajumpheader.png
+image: images/ninjajumpheadersquare.png
 title: Ninja Jump
 permalink: projects/Ninja Jump
 # All dates must be YYYY-MM-DD format!
