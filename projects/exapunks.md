@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/exapunksheader.png
+image: images/exapunksheadersquare.png
 title: Exapunks
 permalink: projects/exapunks
 # All dates must be YYYY-MM-DD format!
