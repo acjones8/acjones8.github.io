@@ -12,7 +12,7 @@ labels:
 ---
 # Let's Talk Semantics
 
-        This week was my first experience with Semantic UI, and UI Frameworks in
+  This week was my first experience with Semantic UI, and UI Frameworks in
 general. Up until this point, I've designed all of my projects in pure HTML,
 JavaScript, and CSS. Writing in pure HTML with some simple CSS does have
 some advantages, and I think it's somewhat unfairly maligned - these pages
@@ -23,7 +23,7 @@ basic, text-only versions of their main websites, precisely so that people
 on low bandwidth connections in times of disaster or who require certain
 accessibility devices can still access information.
 
-However, these websites are also extremely difficult to give a modern
+  However, these websites are also extremely difficult to give a modern
 appearance to, you're quite limited in the type of elements you can
 introduce, and they tend to break on mobile devices, owing to the small
 screen sizes. Relying on bitmaps for icons and backgrounds also has the
@@ -35,7 +35,7 @@ features, such as automatically adjusting for a smaller screen size,
 dynamically resizing based on the amount of content in a component, and
 making it really easy to create complex layouts.
 
-        How easily, you ask? I wondered that myself at first - does the additional
+  How easily, you ask? I wondered that myself at first - does the additional
 work of importing another dependency and needing to maintain it, as well as
 the effort to learn an additional toolkit on top of base Javascript, offset
 the benefits from the library? In turns out, the answer is definitely not.
@@ -51,7 +51,7 @@ needed to achieve it. Even though I've fallen quite a bit behind this week
 and haven't mastered Semantic yet, I'm very impressed with its capabilities
 so far and I'd be hard pressed to design a website without it.
 
-That said, I'm a little concerned about how Semantic UI (and UI frameworks
+  That said, I'm a little concerned about how Semantic UI (and UI frameworks
 in general) play with each other once you start using multiple in the same
 project. Semantic UI seems to be pretty benign at this from my experiences
 so far, but generally speaking, frameworks impose a particular design model
