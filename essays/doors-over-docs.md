@@ -3,14 +3,11 @@ layout: essay
 type: essay
 title: Doors over Docs
 # All dates must be YYYY-MM-DD format!
-date: 2021-12-3
+date: 2021-12-03
 labels:
   - Software Engineering
   - Design Patterns
 ---
-
-
-#Design Patterns
 
 There's a tool that virtually every programmer, around the world, uses every single day. This tool allows programmers to manage access to remote spaces, provides protection from prying eyes, and allows for the transfer of pretty much anything. The natural guess from most software engineers would be SSH, or perhaps a VPN, but I would suggest... the humble door. That's right, a piece of wood (or sometimes metal) suspended on a set of hinges from a frame.
 
