@@ -8,7 +8,7 @@ labels:
   - JavaScript
   - Athletic Software Engineering
 ---
-  #First Impressions
+  # First Impressions
 Learning JavaScript was a very interesting experience for me – it was my
 first major exposure to the language. I’ve done a lot of work with other C
 like languages, such as Java and C itself, but JavaScript also has many

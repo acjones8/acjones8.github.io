@@ -7,7 +7,7 @@ date: 2021-12-17
 labels:
   - Software Engineering
 ---
-#Software Development as a field
+# Software Development as a field
 Over the last 4 months, I’ve learned *a lot* about professional
 software development and what working as a programmer is actually
 like. Before taking this class, I’d mostly done small independent
@@ -17,7 +17,7 @@ However, I’d never done much work with others before or needed to
 program in any style but my own, and those are the most important
 skills I got out of this class.
 
-#Working with others
+# Working with others
 Working with other students on a final project together introduced me
 to a lot of useful skills – in particular, learning how to design and
 manage a project on schedule, how to separate responsibilities and
@@ -31,7 +31,7 @@ contribute to a project in a significant way beyond small patches here
 and there – with the skills I learned in this class, I feel ready to
 tackle working on a larger project.
 
-#Consistent coding standards
+# Consistent coding standards
 Working on my own projects, I’ve always used my own code style, which
 is typically quite verbose – I like to use a lot of spaces, put my
 braces on their own lines, and I dislike using obscure tricks or
@@ -52,7 +52,7 @@ particular) helped to enforce those standards. I don’t think I would
 have remembered all of the requirements if I had to do it purely from
 memory!
 
-#Conclusion
+# Conclusion
 These two topics in particular, the value of a consistent coding style
 and of how to collaborate with others on a project, are skills that I
 know I’ll use extensively in my future. In that sense, I think ICS 314

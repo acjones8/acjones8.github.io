@@ -9,7 +9,7 @@ labels:
     - formatting
     - best practices
 ---
-#The value of standards
+# The value of standards
 This week in my Introduction to Software Engineering class, one of
 the main focuses we covered was on coding standards and their
 importance. Coding standards isn’t just limited to the level of
@@ -38,7 +38,7 @@ return _.flatten(_.zip(list a, list b))
 a one line piece of code that avoided having to worry about edge cases
 like whether one list is shorter or longer.
 
-#The value for collaboration
+# The value for collaboration
 But coding standards are important not just for our own use in
 approaching code, but it’s also critical in helping people with
 greatly different coding styles work together. In my case for example,
@@ -54,7 +54,7 @@ coding standards and an agreement about how we’re going to approach
 problems makes for a much more cohesive program, and I can already see
 this is going to be a critical skill when we get to our group project.
 
-#Automated Enforcement
+# Automated Enforcement
 In our particular case, we’ve been working not just with a set of
 style guides, but also with a linter, ESlint. ESlint’s job is to make
 sure our code is structured in an appropriate manner, and it points
