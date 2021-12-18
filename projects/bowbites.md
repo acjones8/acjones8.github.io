@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Bow Bites
-image: https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-Landing.PNG
+image: images/M3-Landing.PNG
 permalink: projects/Ninja Jump
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-15
