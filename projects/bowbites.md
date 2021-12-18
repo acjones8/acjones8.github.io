@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: 'Bow Bites
+title: Bow Bites
 permalink: projects/Ninja Jump
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-15
