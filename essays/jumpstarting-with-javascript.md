@@ -8,7 +8,7 @@ labels:
   - JavaScript
   - Athletic Software Engineering
 ---
-  # First Impressions
+  #First Impressions
 Learning JavaScript was a very interesting experience for me – it was my
 first major exposure to the language. I’ve done a lot of work with other C
 like languages, such as Java and C itself, but JavaScript also has many
@@ -22,7 +22,7 @@ the language have changed quite a bit; I now realize that it’s a pretty
 powerful language, and I can see why it became the world’s dominant
 scripting language on the internet.
 
-# Drawbacks
+#Drawbacks
 However, there were a few things I didn’t like about it. In particular, I
 don’t like the typing system and the need for strict equality checks; it’s
 quite inconvenient having to remember to type an extra = sign just for
@@ -30,7 +30,7 @@ JavaScript, and I think loose typing works better as something the
 programmer opts into vs out of, as otherwise it leads to all sorts of confusing results if they aren't aware of it. In this sense, it actually reminds me a lot
 of C, which is weakly typed as well, though for entirely different reasons.
 
-# Athletic Software Engineering
+#Athletic Software Engineering
 In learning JavaScript, I was also exposed to the principle of Athletic
 Software Engineering. So far, although I haven’t made up my mind on it,
 there are several features I quite like about it. In particular, working on
