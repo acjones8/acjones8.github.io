@@ -11,8 +11,6 @@ labels:
   - Frameworks
 published: false
 ---
-# Let's Talk Semantics
-
   This week was my first experience with Semantic UI, and UI Frameworks in
 general. Up until this point, I've designed all of my projects in pure HTML,
 JavaScript, and CSS. Writing in pure HTML with some simple CSS does have
