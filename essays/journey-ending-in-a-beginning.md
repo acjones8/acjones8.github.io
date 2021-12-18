@@ -4,6 +4,7 @@ type: essay
 title: A Journey Ending in a Beginning
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
+published: false
 labels:
   - Software Engineering
   - Learning
