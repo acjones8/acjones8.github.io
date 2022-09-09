@@ -4,6 +4,7 @@ type: essay
 title: Jumpstarting with JavaScript
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
+published: false
 labels:
   - JavaScript
   - Athletic Software Engineering
