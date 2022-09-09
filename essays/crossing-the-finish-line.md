@@ -4,6 +4,7 @@ type: essay
 title: Crossing the Finish Line
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
+published: false
 labels:
   - Software Engineering
 ---
