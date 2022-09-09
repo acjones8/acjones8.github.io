@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Style with Substance
 date: 2021-09-23
+published: false
 labels:
     - linters
     - coding standards
