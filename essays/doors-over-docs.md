@@ -4,6 +4,7 @@ type: essay
 title: Doors over Docs
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-03
+published: false
 labels:
   - Software Engineering
   - Design Patterns
