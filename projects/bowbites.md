@@ -20,9 +20,7 @@ and there's even an automated "show me what's open" page that dynamically genera
 that allows vendors to edit their own pages, and for an admin account to manage all of the accounts together.
 
 On this project, I worked with [Cole Amparo](https://coleamparo.github.io/) and [Henry Blazier](https://hbzxc.github.io/) - I highly recommend them to any employers looking for
-a recommendation, they both did amazing work and were great to work with. Even though I was the weakest member of the team at the
-time we made this, they were very patient in helping me fix several of the nasty bugs I accidentally introduced, and I learned
-a lot in how to become a better developer while working with them.
+a recommendation, they both did amazing work and were great to work with. I learned a lot about becoming a better software devloper while working with them on this project.
 
 # My contributions
 
