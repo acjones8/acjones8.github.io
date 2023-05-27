@@ -3,7 +3,7 @@ layout: project
 type: project
 title: Bow Bites
 image: images/M3-Landing-Cropped.png
-permalink: projects/Ninja Jump
+permalink: projects/bowbites
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-15
 labels:
