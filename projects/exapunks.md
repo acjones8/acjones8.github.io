@@ -11,6 +11,7 @@ labels:
   - Zachtronics
   - Game
 summary: Exapunks is a game centered around programming, and this project follows my process in attempting to beat the game.
+published: false
 ---
 
 Zachtronics' EXAPUNKS is a programming game centered around the manipulation of small robotic agents called Exapunks. Zachtronics has made several other games in this genre, most notably TIS-100 and Shenzhen I/O, but my favorite of the bunch is Exapunks. Over summer 2021, I attempted a playthrough of the game, and although I haven't managed to fully complete it yet, I'm gotten fairly close.
