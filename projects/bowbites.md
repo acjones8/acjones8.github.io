@@ -25,7 +25,7 @@ a recommendation, they both did amazing work and were great to work with. I lear
 # My contributions
 
 For this project, I designed and implemented the Vendor Profile Page (which shows all of the relevant information for a vendor such as the time they're open and their menu),  <!--  ![](https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-VendorProfile-LoggedIn.png) -->
-<img src="https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-VendorProfile-LoggedIn.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-VendorProfile-LoggedIn.png" width="65%" height="65%">
 
 the Available Now page (which shows the currently open and available vendors) <!--  ![](https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-AvailableNow-Loggedin.png) --> <img src="https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-AvailableNow-Loggedin.png" width="50%" height="50%">
 
