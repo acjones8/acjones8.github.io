@@ -26,9 +26,10 @@ a lot in how to become a better developer while working with them.
 
 # My contributions
 
-For this project, I designed and implemented the Vendor Profile Page (which shows all of the relevant information for a vendor such as the time they're open and their menu),  ![](https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-VendorProfile-LoggedIn.png)
+For this project, I designed and implemented the Vendor Profile Page (which shows all of the relevant information for a vendor such as the time they're open and their menu),  <!--  ![](https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-VendorProfile-LoggedIn.png) -->
+<img src="https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-VendorProfile-LoggedIn.png" width="50%" height="50%">
 
-the Available Now page (which shows the currently open and available vendors) ![](https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-AvailableNow-Loggedin.png)
+the Available Now page (which shows the currently open and available vendors) <!--  ![](https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-AvailableNow-Loggedin.png) --> <img src="https://raw.githubusercontent.com/bow-bites/bow-bites.github.io/main/images/M3-AvailableNow-Loggedin.png" width="50%" height="50%">
 
 ,  and the Top Picks page (we decided to remove it due to feeling it was redundant with Available Now, so it wasn't included in the finished product). 
 
