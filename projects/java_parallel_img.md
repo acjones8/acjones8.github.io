@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/exapunksheadersquare.png
+# image: images/exapunksheadersquare.png
 title: Multithreaded Java Image Editor
 permalink: projects/java_parallel_img
 # All dates must be YYYY-MM-DD format!
