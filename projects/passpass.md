@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/exapunksheadersquare.png
+# image: images/exapunksheadersquare.png
 title: PassPass
 permalink: projects/passpass
 # All dates must be YYYY-MM-DD format!
